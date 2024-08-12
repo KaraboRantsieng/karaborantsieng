@@ -36,6 +36,13 @@ main {
     margin-top: 20px;
 }
 
+#about img {
+    display: block;
+    margin: 0 auto;
+    width: 200px;
+    height: auto;
+}
+
 section {
     margin-bottom: 20px;
      text-align: justify;
