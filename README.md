@@ -12,7 +12,10 @@ I'm a **Software Engineer** passionate about **Web Development** and **Cybersecu
 ## 🔧 Technologies & Tools
 
 - HTML5 & CSS3
-- JavaScript (learning)
+- JavaScript
+- React
+- Nodejs
+- Typescript
 - Git & GitHub
 - Responsive Web Design
 - Google ADK
