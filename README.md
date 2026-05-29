@@ -3,7 +3,7 @@
 I'm a **Software Engineer** passionate about **Web Development** and **Cybersecurity**. I build, learn, and ship projects every day.
 
 📍 Based in South Africa  
-📧 rantsieng98@gmail.com  
+📧 karabo@ayeyecreativeagency.co.za  
 🌐 [karaborantsieng.github.io/karaborantsieng/](https://karaborantsieng.github.io/karaborantsieng/)  
 🔗 [LinkedIn](https://linkedin.com/in/karabo-rantsieng-16747b145)
 
@@ -15,6 +15,8 @@ I'm a **Software Engineer** passionate about **Web Development** and **Cybersecu
 - JavaScript (learning)
 - Git & GitHub
 - Responsive Web Design
+- Google ADK
+- Python
 
 ---
 
@@ -35,8 +37,8 @@ I'm a **Software Engineer** passionate about **Web Development** and **Cybersecu
 
 ---
 
-- Building my portfolio
-- Improving my JavaScript skills
+- Building AYEYE Creative Agency
+- Improving my Python skills
 - Exploring payment reminder systems and automation tools
 
 ---
